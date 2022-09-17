@@ -1,4 +1,3 @@
-#include <stdlib.h>
 class Solution {
 public:
     int atoi(char c) {
