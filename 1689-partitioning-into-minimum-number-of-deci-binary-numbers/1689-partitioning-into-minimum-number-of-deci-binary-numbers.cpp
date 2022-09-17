@@ -6,7 +6,10 @@ public:
     int minPartitions(string n) {
         int res = 0;
         for(int i = 0; i < n.length(); i++){
-            if(atoi(n[i]) > res) {
+            if(res == 9){
+                return 9;
+            }
+            if(atoi(n[i]) > res){
                 res = atoi(n[i]);
             }
         }
