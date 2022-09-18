@@ -45,7 +45,6 @@ public:
         
         int res = 1, temp;
         for(int i = 0; i < seats.size(); i++){
-            // temp = left[i] > right[i] ? right[i] : left[i];
             if(right[i] == 0){
                 temp = left[i];
             }
