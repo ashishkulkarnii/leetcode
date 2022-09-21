@@ -11,7 +11,7 @@ public:
     }
     vector<int> sumEvenAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
         vector<int> result;
-        int temp_index, temp_val, temp_ans, totalevensum = evenSum(nums);
+        int temp_index, temp_val, totalevensum = evenSum(nums);
         for(int i = 0; i < queries.size(); i++) {
             temp_index = queries[i][1];
             temp_val = queries[i][0];
@@ -26,7 +26,6 @@ public:
             }
             nums[temp_index] += temp_val;
             result.push_back(totalevensum);
-            //result.push_back(evenSum(nums));
         }
         return result;
     }
