@@ -13,7 +13,6 @@ public:
                 break;
             }
             mid = (beg + end) / 2;
-            cout<<beg<<' '<<mid<<' '<<end<<endl;
         }
         return mid;
     }
