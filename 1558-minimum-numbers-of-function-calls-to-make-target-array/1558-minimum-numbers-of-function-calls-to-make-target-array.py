@@ -1,9 +1,4 @@
 class Solution:
-    def allEven(self, arr):
-        for i in arr:
-            if i % 2 == 1:
-                return False
-        return True
     def by2(self, arr):
         for i in range(len(arr)):
             arr[i] = int(arr[i] / 2)
