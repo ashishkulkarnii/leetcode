@@ -5,6 +5,7 @@ public:
         if(n == 1) {
             return 1;
         }
+
         vector<int> candies(n, 0);
         for(int i = 1; i < n; ++i) {
             if(ratings[i-1] < ratings[i]) {
