@@ -22,14 +22,18 @@ public:
     bool findTarget(TreeNode* root, int k) {
         vector<int> nums;
         store(root, nums);
-        for(int i = 0; i < nums.size() - 1; i++) {
-            for(int j = i + 1; j < nums.size(); j++) {
-                if(nums[i] + nums[j] == k) {
-                    return 1;
-                }
+        int i = 0, j = nums.size() - 1;
+        while(i < j) {
+            if(nums[i] + nums[j] == k) {
+                return true;
+            }
+            else if(nums[i] + nums[j] > k) {
+                --j;
+            }
+            else {
+                ++i;
             }
         }
-        return 0;
-        
+        return false;
     }
 };
