@@ -2,21 +2,21 @@ class Solution:
     def breakPalindrome(self, palindrome: str) -> str:
         if len(palindrome) == 1:
             return ""
-        og = palindrome
+        og = list(palindrome)
         palindrome = list(palindrome)
         for c in range(int(len(palindrome)/2)):
-            if ord(palindrome[c]) > 97:
-                palindrome[c] = chr(97)
+            if palindrome[c] > 'a':
+                palindrome[c] = 'a'
                 break
             else:
                 pass
-        if ''.join(palindrome) == og:
+        if palindrome == og:
             for c in range(int(len(palindrome))-1, -1, -1):
-                if ord(palindrome[c]) < 122:
+                if palindrome[c] < 'z':
                     palindrome[c] = chr(ord(palindrome[c]) + 1)
                     break
                 else:
                     pass
-        if ''.join(palindrome) == og:
-            return ""
+        if palindrome == og:
+            return ''
         return ''.join(palindrome)
