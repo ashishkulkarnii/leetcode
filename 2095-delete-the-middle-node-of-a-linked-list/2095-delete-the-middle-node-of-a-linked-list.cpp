@@ -24,9 +24,8 @@ public:
             head->next = NULL;
             return head;
         }
-        int middle_node = len / 2;
         temp = head;
-        for(int _ = 0; _ < middle_node; ++_) {
+        for(int _ = 0; _ < (int) len / 2; ++_) {
             temp = temp->next;
         }
         if(temp->next != NULL) {
