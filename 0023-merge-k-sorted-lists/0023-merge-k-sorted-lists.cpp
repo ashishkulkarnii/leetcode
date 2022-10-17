@@ -25,11 +25,11 @@ public:
             return NULL;
         }
         ListNode *result, *head;
-        for(int i = 1; i < lists.size(); i++) {
+        for(int i = min_index; i < lists.size(); i++) {
             if(lists[i] != NULL) {
-            if(lists[min_index]->val > lists[i]->val) {
-                min_index = i;
-            }
+                if(lists[min_index]->val > lists[i]->val) {
+                    min_index = i;
+                }
             }
         }
         result = lists[min_index];
