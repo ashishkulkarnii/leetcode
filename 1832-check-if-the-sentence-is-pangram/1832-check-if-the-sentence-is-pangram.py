@@ -1,6 +1,7 @@
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:
-        alpha = [0] * 26
+        a = set()
         for c in sentence:
-            alpha[ord(c) - 97] = 1
-        return not 0 in alpha
+            a.add(c)
+            if len(a) == 26: return True
+        return len(a) == 26
