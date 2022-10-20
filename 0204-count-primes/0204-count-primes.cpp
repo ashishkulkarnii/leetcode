@@ -9,10 +9,7 @@ public:
             e = true;
         }
         for(int i = 2; i < n; i++) {
-            if(prime[i] == false) {
-                continue;
-            }
-            else {
+            if(prime[i] == true) {
                 for(int j = 2 * i; j < n; j += i) {
                     prime[j] = false;
                 }
