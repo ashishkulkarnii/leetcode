@@ -15,7 +15,6 @@ public:
             }
         }
         m = (b + e) / 2;
-        cout<<m;
         b = 0;
         e = matrix[m].size() - 1;
         int m2;
