@@ -16,7 +16,7 @@ public:
         }
         m = (b + e) / 2;
         b = 0;
-        e = matrix[m].size() - 1;
+        e = matrix[0].size() - 1;
         int m2;
         while(b <= e) {
             m2 = (b + e) / 2;
