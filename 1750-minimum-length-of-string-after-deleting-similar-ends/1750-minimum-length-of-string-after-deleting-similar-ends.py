@@ -1,4 +1,3 @@
-sys.setrecursionlimit(10**6)
 class Solution:
     def minimumLength(self, s: str) -> int:
         while s != "":
