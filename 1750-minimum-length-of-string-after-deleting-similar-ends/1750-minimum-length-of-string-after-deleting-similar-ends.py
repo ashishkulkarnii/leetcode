@@ -20,3 +20,4 @@ class Solution:
                 continue
             else:
                 return len(s)
+        return 0
