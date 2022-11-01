@@ -1,10 +1,8 @@
 class Solution {
 public:
     int finalBallPos(vector<vector<int>>& grid, int col) {
-cout<<endl;
         int curr_col = col, curr_row = 0;
         while(curr_row < grid.size()) {
-cout<<curr_col<<' '<<curr_row<<endl;
             switch(grid[curr_row][curr_col]) {
                 case 1:
                     if(curr_col + 1 < grid[0].size()) {
