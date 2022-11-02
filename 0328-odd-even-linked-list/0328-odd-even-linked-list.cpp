@@ -35,7 +35,6 @@ public:
                 break;
             }
         }
-        cout<<curr->val<<' ';
         curr2->next = NULL;
         curr->next = even_first;
         return odd_first;
