@@ -15,10 +15,7 @@ public:
         if(p == NULL and q == NULL) {
             return true;
         }
-        if(p == NULL and q != NULL) {
-            return false;
-        }
-        if(q == NULL and p != NULL) {
+        if(p == NULL and q != NULL or q == NULL and p != NULL) {
             return false;
         }
         if(p->val != q->val) {
