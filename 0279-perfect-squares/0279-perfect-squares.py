@@ -13,5 +13,6 @@ class Solution:
                     return f + 1
                 elif nxt > n:
                     break
-                visited.add(nxt)
-                queue.append((nxt, f+1))
+                else:
+                    visited.add(nxt)
+                    queue.append((nxt, f+1))
