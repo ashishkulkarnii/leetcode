@@ -6,7 +6,7 @@ class Codec:
 
     def encode(self, longUrl: str) -> str:
         if longUrl not in self.u_t.keys():
-            res = ''.join(random.choices(string.ascii_lowercase + string.digits, k=6))
+            res = ''.join(random.choices(string.ascii_lowercase + string.digits + string.ascii_uppercase, k=6))
             self.t_u[res] = longUrl
             self.u_t[longUrl] = res
         return self.u_t[longUrl]
