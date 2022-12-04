@@ -18,6 +18,4 @@ class Solution:
                 if prefix[i]//(i+1) < res:
                     res = prefix[i]//(i+1)
                     min_index = i
-        if min_index == -1:
-            return 0
-        return min_index
+        return min_index if min_index >= 0 else 0
