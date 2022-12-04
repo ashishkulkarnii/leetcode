@@ -14,8 +14,7 @@ class Solution:
                 if abs(prefix[i]//(i+1) - suffix[i]//(n-1-i)) < res:
                     res = abs(prefix[i]//(i+1) - suffix[i]//(n-1-i))
                     min_index = i
-            else:
-                if prefix[i]//(i+1) < res:
-                    res = prefix[i]//(i+1)
-                    min_index = i
+            elif prefix[i]//(i+1) < res:
+                res = prefix[i]//(i+1)
+                min_index = i
         return min_index if min_index >= 0 else 0
