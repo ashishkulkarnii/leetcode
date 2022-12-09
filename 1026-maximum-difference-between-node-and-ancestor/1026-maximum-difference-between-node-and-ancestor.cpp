@@ -11,9 +11,6 @@
  */
 class Solution {
 public:
-    bool comp(int a, int b) {
-        return a < b;
-    }
     int diff(TreeNode* root, int max_val, int min_val) {
         if(root == NULL) {
             return max_val - min_val;
