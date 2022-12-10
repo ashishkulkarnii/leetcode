@@ -5,8 +5,8 @@ class Solution:
                 if i == 0 or s[i-1] == '(':
                     self.gen(s[:i]+'()'+s[i:], n-1, res)
         else:
-            res.append(s)
+            res.add(s)
     def generateParenthesis(self, n: int) -> List[str]:
-        res = []
+        res = set()
         self.gen('', n, res)
-        return list(set(res))
+        return list(res)
