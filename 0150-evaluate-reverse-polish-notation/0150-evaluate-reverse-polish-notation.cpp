@@ -8,9 +8,9 @@ public:
                 b = st.top(); st.pop();
                 a = st.top(); st.pop();
                 if(t == "+") st.push(a + b);
-                if(t == "-") st.push(a - b);
-                if(t == "*") st.push(a * b);
-                if(t == "/") st.push(a / b);
+                else if(t == "-") st.push(a - b);
+                else if(t == "*") st.push(a * b);
+                else st.push(a / b);
             }
             else st.push(stoi(t));
         }
