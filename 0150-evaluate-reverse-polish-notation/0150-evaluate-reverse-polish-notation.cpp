@@ -7,11 +7,10 @@ public:
             if(t == "+" or t == "-" or t == "*" or t == "/") {
                 b = st.top(); st.pop();
                 a = st.top(); st.pop();
-                if(t == "+") a = a + b;
-                if(t == "-") a = a - b;
-                if(t == "*") a = a * b;
-                if(t == "/") a = a / b;
-                st.push(a);
+                if(t == "+") st.push(a + b);
+                if(t == "-") st.push(a - b);
+                if(t == "*") st.push(a * b);
+                if(t == "/") st.push(a / b);
             }
             else st.push(stoi(t));
         }
