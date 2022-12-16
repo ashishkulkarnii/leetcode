@@ -1,5 +1,7 @@
 class MyQueue {
+private:
     stack<int> s1, s2;
+
 public:
     MyQueue() {
         
@@ -29,7 +31,6 @@ public:
         while(not s1.empty()) {
             s2.push(s1.top());
             s1.pop();
-            
         }
         temp = s2.top();
         while(not s2.empty()) {
