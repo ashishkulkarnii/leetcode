@@ -11,6 +11,6 @@ class Solution:
                     to_visit.add(v)
                 elif v == curr and u not in visited:
                     to_visit.add(u)
-            if destination in visited or destination in to_visit:
+            if destination in visited:
                 return True
         return False
