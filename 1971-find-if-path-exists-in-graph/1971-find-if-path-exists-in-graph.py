@@ -5,12 +5,12 @@ class Solution:
         to_visit.add(source)
         while to_visit:
             curr = to_visit.pop()
+            if destination == curr:
+                return True
             visited.add(curr)
             for u, v in edges:
                 if u == curr and v not in visited:
                     to_visit.add(v)
                 elif v == curr and u not in visited:
                     to_visit.add(u)
-            if destination in visited:
-                return True
         return False
