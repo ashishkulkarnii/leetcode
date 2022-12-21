@@ -16,6 +16,5 @@ class Solution:
             for n in neighbors:
                 if colors[n] == colors[v]:
                     return False
-                else:
-                    colors[n] = -colors[v]
+                colors[n] = -colors[v]
         return True
