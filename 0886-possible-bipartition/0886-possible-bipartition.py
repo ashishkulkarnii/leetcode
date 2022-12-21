@@ -10,11 +10,10 @@ class Solution:
         colors = [0] * n
         colors[vertices[0]] = 1
         for v in vertices:
-            if colors[v] == 0:
-                continue
-            neighbors = adj_list[v]
-            for n in neighbors:
-                if colors[n] == colors[v]:
-                    return False
-                colors[n] = -colors[v]
+            if colors[v] != 0:
+                neighbors = adj_list[v]
+                for n in neighbors:
+                    if colors[n] == colors[v]:
+                        return False
+                    colors[n] = -colors[v]
         return True
