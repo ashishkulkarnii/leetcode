@@ -2,7 +2,7 @@ class Solution:
     def possibleBipartition(self, n: int, dislikes: List[List[int]]) -> bool:
         if not dislikes:
             return True
-        adj_list = [[] for i in range(n)]
+        adj_list = [[] for _ in range(n)]
         for a, b in dislikes:
             adj_list[a-1].append(b-1) 
             adj_list[b-1].append(a-1)
