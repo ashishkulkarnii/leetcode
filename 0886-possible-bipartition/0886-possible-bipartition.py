@@ -6,7 +6,7 @@ class Solution:
         for a, b in dislikes:
             adj_list[a-1].append(b-1) 
             adj_list[b-1].append(a-1)
-        vertices = sorted(list(range(n)), key=lambda x: len(adj_list[x]), reverse=True)
+        vertices = sorted(list(range(n)), key=lambda x: len(adj_list[x]))[::-1]
         colors = [0] * n
         colors[vertices[0]] = 1
         for v in vertices:
