@@ -1,10 +1,9 @@
 class Solution:
     def maximumBags(self, capacity: List[int], rocks: List[int], additionalRocks: int) -> int:
-        n = len(capacity)
-        unused_space = sorted([capacity[i] - rocks[i] for i in range(n)])
+        unused_space = sorted([c - r for c, r in zip(capacity, rocks)])
         ans = 0
-        for i in range(n):
-            if unused_space[i] <= additionalRocks:
+        for u in unused_space:
+            if u <= additionalRocks:
                 ans += 1
-                additionalRocks -= unused_space[i]
+                additionalRocks -= u
         return ans
