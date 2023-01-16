@@ -7,7 +7,6 @@ class Solution:
                 return self.rec(intervals)
         return intervals
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
-        intervals.append(newInterval)
-        intervals.sort()
+        bisect.insort(intervals, newInterval)
         intervals = self.rec(intervals)
         return intervals
