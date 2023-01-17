@@ -8,4 +8,4 @@ class Node:
 
 class Solution:
     def preorder(self, root: 'Node') -> List[int]:
-                return [] if root == None else [root.val] + list(itertools.chain(*list(map(self.preorder, root.children))))
+        return [] if root == None else [root.val] + list(itertools.chain(*list(map(self.preorder, root.children))))
