@@ -1,8 +1,6 @@
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
-        trusted_by = dict()
-        for i in range(1, n+1):
-            trusted_by[i] = set()
+        trusted_by = {i: set() for i in range(1, n + 1)}
         for truster, trustee in trust:
             if trustee in trusted_by.keys():
                 trusted_by[trustee].add(truster)
