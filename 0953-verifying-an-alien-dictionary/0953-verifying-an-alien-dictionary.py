@@ -1,9 +1,7 @@
 class Solution:
     def isAlienSorted(self, words: List[str], order: str) -> bool:
         earth = 'abcdefghijklmnopqrstuvwxyz'
-        alien_to_earth = dict()
-        for i in range(26):
-            alien_to_earth[order[i]] = earth[i]
+        alien_to_earth = dict(zip(list(order), list(earth)))
         for i in range(len(words)):
             word = list(words[i])
             for j in range(len(word)):
