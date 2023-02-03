@@ -25,5 +25,5 @@ class Solution:
         for i in ans:
             for j in i:
                 res += j
-                
+        
         return res
