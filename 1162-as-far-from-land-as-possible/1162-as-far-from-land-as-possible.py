@@ -5,18 +5,8 @@ class Solution:
         if grid[y][x] == 1:
             return False
         else:
-            if x > 0 and grid[y][x-1]:
+            if x > 0 and grid[y][x-1] or y > 0 and grid[y-1][x] or x < n - 1 and grid[y][x+1] or y < n - 1 and grid[y+1][x]:
                 return True
-            elif y > 0 and grid[y-1][x]:
-                return True
-            # elif x > 0 and y > 0 and grid[y-1][x-1]:
-            #     return True
-            elif x < n - 1 and grid[y][x+1]:
-                return True
-            elif y < n - 1 and grid[y+1][x]:
-                return True
-            # elif x < n - 1 and y < n - 1 and grid[y+1][x+1]:
-            #     return True
             else:
                 return False
     def maxDistance(self, grid: List[List[int]]) -> int:
