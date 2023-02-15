@@ -5,10 +5,9 @@ class Solution:
         for x, y in points[1::]:
             dx = abs(x - xi)
             dy = abs(y - yi)
-            while dx > 0 and dy > 0:
-                res += 1
-                dx -= 1
-                dy -= 1
+            res += (temp := max(dx, dy))
+            dx -= temp
+            dy -= temp
             if dx > 0:
                 res += dx
             elif dy > 0:
