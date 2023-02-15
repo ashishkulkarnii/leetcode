@@ -8,10 +8,6 @@ class Solution:
             res += (temp := max(dx, dy))
             dx -= temp
             dy -= temp
-            if dx > 0:
-                res += dx
-            elif dy > 0:
-                res += dy
-            xi = x
-            yi = y
+            res += max(dx, 0) + max(dy, 0)
+            xi, yi = x, y
         return res
