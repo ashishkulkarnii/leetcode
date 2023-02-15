@@ -5,14 +5,8 @@ class Solution {
             x = points[i][0]; y = points[i][1];
             dx = Math.abs(x - xi); dy = Math.abs(y - yi);
             temp = Math.max(dx, dy);
-            res += temp;
             dx -= temp; dy -= temp;
-            if(dx > 0) {
-                res += dx;
-            }
-            if(dy > 0) {
-                res += dy;
-            }
+            res += temp + (dx > 0 ? dx : 0) + (dy > 0 ? dy : 0);
             xi = x; yi = y;
         }
         return res;
