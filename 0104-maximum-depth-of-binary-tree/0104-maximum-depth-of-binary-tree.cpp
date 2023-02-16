@@ -17,6 +17,5 @@ public:
         }
         ++depth;
         return max(maxDepth(root->left, depth), maxDepth(root->right, depth));
-
     }
 };
