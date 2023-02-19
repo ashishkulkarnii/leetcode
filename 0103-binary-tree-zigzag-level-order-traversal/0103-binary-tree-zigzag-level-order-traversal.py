@@ -18,7 +18,6 @@ class Solution:
             level = queue[:level_count:]
             queue = queue[level_count::]
             
-            print(level)
             for node in level:
                 if node.left:
                     queue.append(node.left)
