@@ -13,6 +13,6 @@ class Solution {
                 b = m + 1;
             }
         }
-        return target == nums[0] ? 0 : -1;
+        return -1;
     }
 }
