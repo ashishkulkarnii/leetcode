@@ -1,3 +1,5 @@
+# O(n) space
+
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
         seen = set(nums)
