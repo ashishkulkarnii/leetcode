@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.lang.Math;
 
 class Solution {
     public boolean valid(int[] weights, int capacity, int days) {
@@ -13,7 +14,11 @@ class Solution {
         return res <= days;
     }
     public int shipWithinDays(int[] weights, int days) {
-        int b = Arrays.stream(weights).max().getAsInt(), e = Arrays.stream(weights).sum(), m;
+        int b = Integer.MIN_VALUE, e = 0, m;
+        for(int w: weights) {
+            b = Math.max(b, w);
+            e += w;
+        }
         while(b < e) {
             m = (b + e) / 2;
             if(valid(weights, m, days)) {
