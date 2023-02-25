@@ -12,11 +12,11 @@ class Solution:
                 if c < len(grid[0]) - 1:
                     dfs(r, c + 1, color)
         
-        colour = 2
+        colour = 0
         for x in range(len(grid[0])):
             for y in range(len(grid)):
                 if grid[y][x] == '1':
                     colour += 1
                     dfs(y, x, colour)
-        print(grid)
-        return colour - 2
+
+        return colour
