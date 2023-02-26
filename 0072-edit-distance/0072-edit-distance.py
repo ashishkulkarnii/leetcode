@@ -1,6 +1,5 @@
 class Solution:
     def minDistance(self, word1, word2):
-        """Dynamic programming solution"""
         m = len(word1)
         n = len(word2)
         table = [[0] * (n + 1) for _ in range(m + 1)]
