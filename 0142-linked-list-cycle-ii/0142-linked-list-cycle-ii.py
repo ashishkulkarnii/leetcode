@@ -9,7 +9,7 @@ class Solution:
         visited = set()
         while head:
             if head in visited:
-                return head
+                break
             visited.add(head)
             head = head.next
-        return None
+        return head
