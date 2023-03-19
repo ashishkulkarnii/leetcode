@@ -1,6 +1,4 @@
 class BrowserHistory:
-    history = []
-    pointer = -1
 
     def __init__(self, homepage: str):
         self.history = [homepage]
