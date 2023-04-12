@@ -1,7 +1,7 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
         dirs = path.split('/')
-        stack = []
+        stack = list()
         for dir in dirs:
             if len(dir) == 0 or dir == '.':
                 pass
