@@ -1,18 +1,16 @@
 /**
- * @param {Function[]} functions
- * @return {Function}
+ * @param {number} n
+ * @return {Function} counter
  */
-var compose = function(functions) {
-    return (x) => {
-        var ans = x;
-        for(let i = functions.length - 1; i >= 0; --i) {
-            ans = functions[i](ans);
-        }
-        return ans;
+var createCounter = function(n) {
+    return function() {
+        return n++
     };
 };
 
-/**
- * const fn = compose([x => x + 1, x => 2 * x])
- * fn(4) // 9
+/** 
+ * const counter = createCounter(10)
+ * counter() // 10
+ * counter() // 11
+ * counter() // 12
  */
