@@ -4,9 +4,8 @@
 function memoize(fn) {
     const memos = {};
     return function(...args) {
-        if(!(args in memos)) {
+        if(!(args in memos))
             memos[args] = fn(...args);
-        }
         return memos[args];
     }
 }
