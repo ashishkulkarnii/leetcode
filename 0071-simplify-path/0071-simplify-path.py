@@ -1,7 +1,6 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
         dirs = path.split('/')
-        new_path = []
         stack = []
         for dir in dirs:
             if len(dir) == 0 or dir == '.':
