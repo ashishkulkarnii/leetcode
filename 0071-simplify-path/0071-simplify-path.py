@@ -1,8 +1,5 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
-        path = '/' + path
-        while '//' in path:
-            path = path.replace('//', '/')
         dirs = path.split('/')
         new_path = []
         stack = []
