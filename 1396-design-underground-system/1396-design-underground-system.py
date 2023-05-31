@@ -11,10 +11,10 @@ class UndergroundSystem:
     def checkOut(self, id: int, stationName: str, t: int) -> None:
         ti, start = self.checkin[id]
         del self.checkin[id]
-        self.times[(start, stationName)].append(t - ti)
+        self.times[start + ' ' + stationName].append(t - ti)
 
     def getAverageTime(self, startStation: str, endStation: str) -> float:
-        return statistics.mean(self.times[(startStation, endStation)])
+        return statistics.mean(self.times[startStation + ' ' + endStation])
 
 
 # Your UndergroundSystem object will be instantiated and called as such:
