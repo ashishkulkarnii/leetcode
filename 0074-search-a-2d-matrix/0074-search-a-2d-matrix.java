@@ -27,7 +27,6 @@ class Solution {
             else
                 high = mid - 1;
         }
-        System.out.print(row + " " + col);
         return false;
     }
 }
