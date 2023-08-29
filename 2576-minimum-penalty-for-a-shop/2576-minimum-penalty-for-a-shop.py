@@ -1,17 +1,14 @@
 class Solution:
     def bestClosingTime(self, customers: str) -> int:
-        penalties = [0 if c == "N" else 1 for c in customers]
-        running_sum = sum(penalties)
+        running_sum = customers.count("N")
         min_penalty = running_sum
         closing_time = 0
-        for h in range(1, len(customers) + 1):
-            if penalties[h - 1] == 0:
-                penalties[h - 1] = 1
+        for h, c in enumerate(customers):
+            if c == "N":
                 running_sum += 1
             else:
-                penalties[h - 1] = 0
                 running_sum -= 1
             if running_sum < min_penalty:
                 min_penalty = running_sum
-                closing_time = h
+                closing_time = h + 1
         return closing_time
