@@ -8,6 +8,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Tree
 |  |
@@ -37,4 +39,12 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
