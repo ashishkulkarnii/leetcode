@@ -59,4 +59,8 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
