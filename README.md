@@ -10,6 +10,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
+| [3429-special-array-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
 | ------- |
