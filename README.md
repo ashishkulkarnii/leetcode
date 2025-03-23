@@ -20,6 +20,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/ashishkulkarnii/leetcode/tree/master/0443-string-compression) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 ## String
@@ -27,6 +28,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0443-string-compression](https://github.com/ashishkulkarnii/leetcode/tree/master/0443-string-compression) |
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashishkulkarnii/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Tree
