@@ -8,6 +8,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -65,6 +66,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ashishkulkarnii/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ashishkulkarnii/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ashishkulkarnii/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -72,6 +74,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
