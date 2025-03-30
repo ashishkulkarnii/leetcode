@@ -12,6 +12,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkulkarnii/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -116,4 +117,8 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkulkarnii/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
