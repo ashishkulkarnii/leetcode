@@ -8,6 +8,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
@@ -62,6 +63,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
