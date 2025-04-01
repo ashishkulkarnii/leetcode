@@ -21,6 +21,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishkulkarnii/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2476-check-distances-between-same-letters](https://github.com/ashishkulkarnii/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashishkulkarnii/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3429-special-array-i) |
@@ -43,6 +44,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashishkulkarnii/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2476-check-distances-between-same-letters](https://github.com/ashishkulkarnii/leetcode/tree/master/2476-check-distances-between-same-letters) |
 ## Tree
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2476-check-distances-between-same-letters](https://github.com/ashishkulkarnii/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
