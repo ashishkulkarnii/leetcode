@@ -17,12 +17,12 @@ class Solution:
         def get_lca(node):
             if subtree[node.val] == 0:
                 return node
-            lsub = subtree[node.left.val] + 1 if node.left else 0
-            rsub = subtree[node.right.val] + 1 if node.right else 0
+            lsub = subtree[node.left.val] if node.left else -1
+            rsub = subtree[node.right.val] if node.right else -1
             if lsub == rsub:
                 return node
             elif lsub > rsub:
                 return get_lca(node.left)
-            elif rsub > lsub:
+            else:
                 return get_lca(node.right)
         return get_lca(root)
