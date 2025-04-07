@@ -91,6 +91,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ashishkulkarnii/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ashishkulkarnii/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -150,4 +151,12 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [0045-jump-game-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0045-jump-game-ii) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
