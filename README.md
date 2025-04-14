@@ -16,6 +16,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1656-count-good-triplets](https://github.com/ashishkulkarnii/leetcode/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkulkarnii/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -171,5 +172,6 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/ashishkulkarnii/leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/ashishkulkarnii/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
