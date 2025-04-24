@@ -25,6 +25,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/ashishkulkarnii/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashishkulkarnii/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -88,6 +89,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishkulkarnii/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/ashishkulkarnii/leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashishkulkarnii/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashishkulkarnii/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -135,6 +137,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashishkulkarnii/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Counting
 |  |
 | ------- |
