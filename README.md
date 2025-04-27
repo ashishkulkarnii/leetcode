@@ -33,6 +33,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [3430-count-days-without-meetings](https://github.com/ashishkulkarnii/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashishkulkarnii/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashishkulkarnii/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ashishkulkarnii/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
 | ------- |
