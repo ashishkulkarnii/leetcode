@@ -20,6 +20,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1656-count-good-triplets](https://github.com/ashishkulkarnii/leetcode/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkulkarnii/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
+| [2048-build-array-from-permutation](https://github.com/ashishkulkarnii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishkulkarnii/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -154,6 +155,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/ashishkulkarnii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
