@@ -32,6 +32,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/ashishkulkarnii/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashishkulkarnii/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -108,6 +109,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/ashishkulkarnii/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
@@ -119,6 +121,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [2649-count-total-number-of-colored-cells](https://github.com/ashishkulkarnii/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/ashishkulkarnii/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
