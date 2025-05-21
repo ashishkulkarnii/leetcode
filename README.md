@@ -12,6 +12,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0045-jump-game-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ashishkulkarnii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ashishkulkarnii/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -93,6 +94,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [0001-two-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ashishkulkarnii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishkulkarnii/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -127,6 +129,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/ashishkulkarnii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
