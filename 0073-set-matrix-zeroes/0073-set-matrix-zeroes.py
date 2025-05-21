@@ -1,14 +1,20 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
-        rows = len(matrix) * [1]
-        cols = len(matrix[0]) * [1]
-        for row in range(len(matrix)):
-            for col in range(len(matrix[0])):
+        """
+        Do not return anything, modify matrix in-place instead.
+        """
+        zr = set()
+        zc = set()
+        m = len(matrix)
+        n = len(matrix[0])
+        for row in range(m):
+            for col in range(n):
                 if matrix[row][col] == 0:
-                    rows[row] = 0
-                    cols[col] = 0
-                    continue
-        for row in range(len(matrix)):
-            for col in range(len(matrix[0])):
-                if rows[row] == 0 or cols[col] == 0:
-                    matrix[row][col] = 0
+                    zr.add(row)
+                    zc.add(col)
+        for row in range(m):
+            if row in zr:
+                matrix[row] = [0] * n
+            else:
+                matrix[row] = [0 if i in zc else x for i, x in enumerate(matrix[row])]
+        
