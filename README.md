@@ -31,6 +31,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashishkulkarnii/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishkulkarnii/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashishkulkarnii/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2476-check-distances-between-same-letters](https://github.com/ashishkulkarnii/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashishkulkarnii/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -134,6 +135,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashishkulkarnii/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3321-type-of-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/ashishkulkarnii/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Math
@@ -217,6 +219,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0797-rabbits-in-forest](https://github.com/ashishkulkarnii/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ashishkulkarnii/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashishkulkarnii/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashishkulkarnii/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Linked List
 |  |
