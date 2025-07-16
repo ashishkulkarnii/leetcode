@@ -43,6 +43,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [3321-type-of-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/ashishkulkarnii/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashishkulkarnii/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashishkulkarnii/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ashishkulkarnii/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -211,6 +212,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkulkarnii/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishkulkarnii/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
