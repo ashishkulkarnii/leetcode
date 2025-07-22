@@ -21,6 +21,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/ashishkulkarnii/leetcode/tree/master/1656-count-good-triplets) |
+| [1813-maximum-erasure-value](https://github.com/ashishkulkarnii/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkulkarnii/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 | [2048-build-array-from-permutation](https://github.com/ashishkulkarnii/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -121,6 +122,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0797-rabbits-in-forest](https://github.com/ashishkulkarnii/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishkulkarnii/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1813-maximum-erasure-value](https://github.com/ashishkulkarnii/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashishkulkarnii/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -184,6 +186,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ashishkulkarnii/leetcode/tree/master/0076-minimum-window-substring) |
+| [1813-maximum-erasure-value](https://github.com/ashishkulkarnii/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashishkulkarnii/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Counting
