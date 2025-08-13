@@ -147,6 +147,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
+| [0326-power-of-three](https://github.com/ashishkulkarnii/leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/ashishkulkarnii/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashishkulkarnii/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ashishkulkarnii/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -237,6 +238,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/ashishkulkarnii/leetcode/tree/master/0326-power-of-three) |
 ## Enumeration
 |  |
 | ------- |
