@@ -168,6 +168,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ashishkulkarnii/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/3336-water-bottles-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
@@ -220,6 +221,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [2048-build-array-from-permutation](https://github.com/ashishkulkarnii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3336-water-bottles-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
