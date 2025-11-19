@@ -6,7 +6,7 @@ class Solution:
         while r2 < len(bank):
             if (d1 := bank[r1].count("1")) == 0:
                 r1 += 1
-                r2 += 1
+                r2 = r1 + 1
             elif (d2 := bank[r2].count("1")) == 0:
                 r2 += 1
             else:
