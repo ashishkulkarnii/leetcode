@@ -31,6 +31,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashishkulkarnii/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishkulkarnii/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashishkulkarnii/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2476-check-distances-between-same-letters](https://github.com/ashishkulkarnii/leetcode/tree/master/2476-check-distances-between-same-letters) |
@@ -126,6 +127,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1813-maximum-erasure-value](https://github.com/ashishkulkarnii/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashishkulkarnii/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/ashishkulkarnii/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -140,6 +142,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashishkulkarnii/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3321-type-of-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/ashishkulkarnii/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -209,6 +212,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/ashishkulkarnii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Dynamic Programming
 |  |
 | ------- |
