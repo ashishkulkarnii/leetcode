@@ -19,6 +19,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ashishkulkarnii/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/ashishkulkarnii/leetcode/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/ashishkulkarnii/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -72,6 +73,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ashishkulkarnii/leetcode/tree/master/0868-push-dominoes) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ashishkulkarnii/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashishkulkarnii/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -129,6 +131,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0797-rabbits-in-forest](https://github.com/ashishkulkarnii/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishkulkarnii/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1813-maximum-erasure-value](https://github.com/ashishkulkarnii/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -146,6 +149,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
