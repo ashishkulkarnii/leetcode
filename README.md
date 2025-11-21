@@ -170,6 +170,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [3321-type-of-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/3336-water-bottles-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3830-find-closest-person](https://github.com/ashishkulkarnii/leetcode/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
