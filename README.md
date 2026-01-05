@@ -25,6 +25,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1813-maximum-erasure-value](https://github.com/ashishkulkarnii/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkulkarnii/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/ashishkulkarnii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ashishkulkarnii/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -183,6 +184,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ashishkulkarnii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ashishkulkarnii/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
@@ -250,6 +252,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0797-rabbits-in-forest](https://github.com/ashishkulkarnii/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ashishkulkarnii/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/ashishkulkarnii/leetcode/tree/master/1448-maximum-69-number) |
+| [1975-maximum-matrix-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashishkulkarnii/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashishkulkarnii/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
