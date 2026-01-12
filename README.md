@@ -20,6 +20,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ashishkulkarnii/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ashishkulkarnii/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashishkulkarnii/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -166,6 +167,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/ashishkulkarnii/leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/ashishkulkarnii/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ashishkulkarnii/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashishkulkarnii/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashishkulkarnii/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/ashishkulkarnii/leetcode/tree/master/1448-maximum-69-number) |
@@ -287,4 +289,8 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/0386-lexicographical-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/ashishkulkarnii/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
