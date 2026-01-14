@@ -15,6 +15,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0073-set-matrix-zeroes](https://github.com/ashishkulkarnii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/ashishkulkarnii/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ashishkulkarnii/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0797-rabbits-in-forest](https://github.com/ashishkulkarnii/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
