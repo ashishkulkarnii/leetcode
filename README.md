@@ -27,6 +27,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1656-count-good-triplets](https://github.com/ashishkulkarnii/leetcode/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/ashishkulkarnii/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkulkarnii/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1929-concatenation-of-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1929-concatenation-of-array) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -233,6 +234,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/ashishkulkarnii/leetcode/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/ashishkulkarnii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
