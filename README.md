@@ -23,6 +23,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1266-minimum-time-visiting-all-points](https://github.com/ashishkulkarnii/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashishkulkarnii/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1470-shuffle-the-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1470-shuffle-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/ashishkulkarnii/leetcode/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/ashishkulkarnii/leetcode/tree/master/1813-maximum-erasure-value) |
