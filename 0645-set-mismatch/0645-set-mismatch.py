@@ -1,16 +1,15 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
-        hashmap = dict()
-        for n in nums:
-            if n in hashmap.keys():
-                hashmap[n] += 1
-            else:
-                hashmap[n] = 1
-        double = 1
-        missing = 1
-        for i in range(1, len(nums) + 1):
-            if i not in hashmap.keys():
-                missing  = i
-            elif hashmap[i] == 2:
-                double = i
-        return [double, missing]
+        n = len(nums)
+        missing = None
+        dupe = None
+        found = [0] * (n + 1)
+        for i in nums:
+            found[i] += 1
+        for i, c in enumerate(found):
+            if i != 0 and c == 0:
+                missing = i
+            if c == 2:
+                dupe = i
+        return [dupe, missing]
+                
