@@ -1,3 +1,3 @@
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
-        return [i for t in zip(nums[:n], nums[n:]) for i in t]
+        return [nums[i//2+n] if i % 2 else nums[i//2] for i in range(n * 2)]
