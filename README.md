@@ -23,6 +23,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ashishkulkarnii/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/ashishkulkarnii/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ashishkulkarnii/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ashishkulkarnii/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -163,6 +164,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [0645-set-mismatch](https://github.com/ashishkulkarnii/leetcode/tree/master/0645-set-mismatch) |
+| [1200-minimum-absolute-difference](https://github.com/ashishkulkarnii/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkulkarnii/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
