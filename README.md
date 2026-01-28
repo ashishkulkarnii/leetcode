@@ -49,6 +49,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashishkulkarnii/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashishkulkarnii/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2476-check-distances-between-same-letters](https://github.com/ashishkulkarnii/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashishkulkarnii/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -153,6 +154,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashishkulkarnii/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashishkulkarnii/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2476-check-distances-between-same-letters](https://github.com/ashishkulkarnii/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -231,6 +233,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ashishkulkarnii/leetcode/tree/master/0076-minimum-window-substring) |
 | [1813-maximum-erasure-value](https://github.com/ashishkulkarnii/leetcode/tree/master/1813-maximum-erasure-value) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashishkulkarnii/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashishkulkarnii/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Counting
