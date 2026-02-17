@@ -247,6 +247,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/ashishkulkarnii/leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/ashishkulkarnii/leetcode/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashishkulkarnii/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
@@ -318,4 +319,8 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkulkarnii/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/ashishkulkarnii/leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
