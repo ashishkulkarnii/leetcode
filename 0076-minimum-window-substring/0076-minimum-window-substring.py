@@ -8,13 +8,17 @@ class Solution:
                 if counter[c] < t_counter[c]:
                     return False
             return True
-        res = s
+        res = ""
+        res_len = len(s) + 1
         while j < len(s):
             counter[s[j]] += 1
             if check_counter(counter):
                 while check_counter(counter):
                     counter[s[i]] -= 1
                     i += 1
-                res = min(res, s[i-1:j+1], key=len)
+                if j - i + 1 <= res_len:
+                    res = s[i-1:j+1]
+                    res_len = j - i + 1
+                # res = min(res, s[i-1:j+1], key=len)
             j += 1
-        return res if (res != s or check_counter(collections.Counter(res))) else ""
+        return res
