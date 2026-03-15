@@ -26,6 +26,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0645-set-mismatch](https://github.com/ashishkulkarnii/leetcode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ashishkulkarnii/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0797-rabbits-in-forest](https://github.com/ashishkulkarnii/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0875-koko-eating-bananas](https://github.com/ashishkulkarnii/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ashishkulkarnii/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
@@ -241,6 +242,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0033-search-in-rotated-sorted-array](https://github.com/ashishkulkarnii/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashishkulkarnii/leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/ashishkulkarnii/leetcode/tree/master/0875-koko-eating-bananas) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashishkulkarnii/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
