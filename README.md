@@ -16,6 +16,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0073-set-matrix-zeroes](https://github.com/ashishkulkarnii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/ashishkulkarnii/leetcode/tree/master/0162-find-peak-element) |
 | [0213-house-robber-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ashishkulkarnii/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -238,6 +239,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashishkulkarnii/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ashishkulkarnii/leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashishkulkarnii/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
