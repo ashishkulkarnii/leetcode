@@ -17,6 +17,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0118-pascals-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ashishkulkarnii/leetcode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/ashishkulkarnii/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ashishkulkarnii/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -119,6 +120,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashishkulkarnii/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishkulkarnii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -128,6 +130,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/ashishkulkarnii/leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishkulkarnii/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -224,6 +227,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ashishkulkarnii/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/ashishkulkarnii/leetcode/tree/master/0200-number-of-islands) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ashishkulkarnii/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -354,6 +358,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ashishkulkarnii/leetcode/tree/master/0200-number-of-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
