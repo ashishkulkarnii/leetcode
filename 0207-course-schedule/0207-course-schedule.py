@@ -5,7 +5,6 @@ class Solution:
         for a, b in prerequisites:
             prereqs[a].append(b)
             num_prereqs[a] += 1
-        print(prereqs)
         def rec(remaining: list, completed: set):
             if not remaining:
                 return True
