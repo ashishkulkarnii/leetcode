@@ -1,22 +1,23 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        def dfs(r, c, color):
-            if grid[r][c] == '1':
-                grid[r][c] = color
-                if r > 0:
-                    dfs(r - 1, c, color)
-                if r < len(grid) - 1:
-                    dfs(r + 1, c, color)
-                if c > 0:
-                    dfs(r, c - 1, color)
-                if c < len(grid[0]) - 1:
-                    dfs(r, c + 1, color)
-        
-        colour = 0
-        for x in range(len(grid[0])):
-            for y in range(len(grid)):
-                if grid[y][x] == '1':
-                    colour += 1
-                    dfs(y, x, colour)
-
-        return colour
+        m = len(grid[0])
+        n = len(grid)
+        i, j = 0, 0
+        color = 0
+        def bfs(i, j, color):
+            if 0 <= i < m and 0 <= j < n and grid[j][i] == "1":
+                grid[j][i] = color
+                bfs(i + 1, j, color)
+                bfs(i - 1, j, color)
+                bfs(i, j + 1, color)
+                bfs(i, j - 1, color)
+        while i < m and j < n:
+            if grid[j][i] == "1":
+                bfs(i, j, color)
+                color += 1
+            else:
+                i += 1
+                if i == m:
+                    i = 0
+                    j += 1
+        return color
