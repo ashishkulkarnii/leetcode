@@ -9,6 +9,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ashishkulkarnii/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashishkulkarnii/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ashishkulkarnii/leetcode/tree/master/0048-rotate-image) |
@@ -78,6 +79,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashishkulkarnii/leetcode/tree/master/0011-container-with-most-water) |
 | [0443-string-compression](https://github.com/ashishkulkarnii/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashishkulkarnii/leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
@@ -306,6 +308,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashishkulkarnii/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0045-jump-game-ii) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ashishkulkarnii/leetcode/tree/master/0797-rabbits-in-forest) |
