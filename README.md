@@ -32,6 +32,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0797-rabbits-in-forest](https://github.com/ashishkulkarnii/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0875-koko-eating-bananas](https://github.com/ashishkulkarnii/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0994-rotting-oranges](https://github.com/ashishkulkarnii/leetcode/tree/master/0994-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ashishkulkarnii/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/ashishkulkarnii/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -145,6 +146,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0200-number-of-islands](https://github.com/ashishkulkarnii/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ashishkulkarnii/leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0994-rotting-oranges](https://github.com/ashishkulkarnii/leetcode/tree/master/0994-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishkulkarnii/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Design
@@ -245,6 +247,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0073-set-matrix-zeroes](https://github.com/ashishkulkarnii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ashishkulkarnii/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ashishkulkarnii/leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/ashishkulkarnii/leetcode/tree/master/0994-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ashishkulkarnii/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
