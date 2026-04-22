@@ -11,18 +11,14 @@ class Solution:
         p = "".join(p)
         return self._isMatch(s, p)
     def _isMatch(self, s: str, p: str) -> bool:
-        if len(p) > 1 and p[1] == "*":
-            if not s:
-                return self.isMatch(s, p[2:])
-            else:
-                if s[0] == p[0] or p[0] == ".":
-                    return self.isMatch(s, p[2:]) or self.isMatch(s[1:], p[2:]) or self.isMatch(s[1:], p)
-                else:
-                    return self.isMatch(s, p[2:])
-        else:
-            if not (s or p):
+        if not (s or p):
                 return True
-            elif s and p and (s[0] == p[0] or p[0] == "."):
-                return self.isMatch(s[1:], p[1:])
+        elif len(p) > 1 and p[1] == "*":
+            if s and (s[0] == p[0] or p[0] == "."):
+                return self.isMatch(s, p[2:]) or self.isMatch(s[1:], p[2:]) or self.isMatch(s[1:], p)
             else:
-                return False
+                return self.isMatch(s, p[2:])        
+        elif s and p and (s[0] == p[0] or p[0] == "."):
+            return self.isMatch(s[1:], p[1:])
+        else:
+            return False
