@@ -84,6 +84,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashishkulkarnii/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ashishkulkarnii/leetcode/tree/master/0011-container-with-most-water) |
 | [0443-string-compression](https://github.com/ashishkulkarnii/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashishkulkarnii/leetcode/tree/master/0567-permutation-in-string) |
@@ -96,6 +97,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishkulkarnii/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ashishkulkarnii/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashishkulkarnii/leetcode/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -305,6 +307,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashishkulkarnii/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0213-house-robber-ii) |
