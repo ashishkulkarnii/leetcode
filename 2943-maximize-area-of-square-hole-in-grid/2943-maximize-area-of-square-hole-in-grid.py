@@ -11,6 +11,4 @@ class Solution:
                     l = max(l, temp)
                     temp = 1
             return max(l, temp)
-        x, y = len_longest_continuous(vBars), len_longest_continuous(hBars) 
-        dim = min(x, y) + 1
-        return dim ** 2
+        return (min(len_longest_continuous(vBars), len_longest_continuous(hBars)) + 1) ** 2
