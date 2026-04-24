@@ -91,6 +91,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0011-container-with-most-water](https://github.com/ashishkulkarnii/leetcode/tree/master/0011-container-with-most-water) |
 | [0443-string-compression](https://github.com/ashishkulkarnii/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashishkulkarnii/leetcode/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/ashishkulkarnii/leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ashishkulkarnii/leetcode/tree/master/0868-push-dominoes) |
 | [1168-duplicate-zeros](https://github.com/ashishkulkarnii/leetcode/tree/master/1168-duplicate-zeros) |
@@ -107,6 +108,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/ashishkulkarnii/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashishkulkarnii/leetcode/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/ashishkulkarnii/leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ashishkulkarnii/leetcode/tree/master/0868-push-dominoes) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ashishkulkarnii/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
