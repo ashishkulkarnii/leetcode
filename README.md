@@ -401,6 +401,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashishkulkarnii/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ashishkulkarnii/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -413,6 +414,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ashishkulkarnii/leetcode/tree/master/0207-course-schedule) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ashishkulkarnii/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -429,4 +431,8 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashishkulkarnii/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ashishkulkarnii/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
