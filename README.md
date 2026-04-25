@@ -111,6 +111,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0696-count-binary-substrings](https://github.com/ashishkulkarnii/leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ashishkulkarnii/leetcode/tree/master/0868-push-dominoes) |
+| [1143-longest-common-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ashishkulkarnii/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashishkulkarnii/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -329,6 +330,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0213-house-robber-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0868-push-dominoes](https://github.com/ashishkulkarnii/leetcode/tree/master/0868-push-dominoes) |
+| [1143-longest-common-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkulkarnii/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishkulkarnii/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ashishkulkarnii/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
