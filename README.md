@@ -107,6 +107,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0076-minimum-window-substring](https://github.com/ashishkulkarnii/leetcode/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/ashishkulkarnii/leetcode/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/ashishkulkarnii/leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/ashishkulkarnii/leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
@@ -329,6 +330,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0118-pascals-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0868-push-dominoes](https://github.com/ashishkulkarnii/leetcode/tree/master/0868-push-dominoes) |
 | [1143-longest-common-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ashishkulkarnii/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
