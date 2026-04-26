@@ -19,6 +19,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0118-pascals-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ashishkulkarnii/leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/ashishkulkarnii/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ashishkulkarnii/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -332,6 +333,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0045-jump-game-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/ashishkulkarnii/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ashishkulkarnii/leetcode/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/ashishkulkarnii/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/0516-longest-palindromic-subsequence) |
