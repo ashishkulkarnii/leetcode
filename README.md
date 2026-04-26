@@ -138,6 +138,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishkulkarnii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishkulkarnii/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -148,6 +149,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0200-number-of-islands](https://github.com/ashishkulkarnii/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ashishkulkarnii/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishkulkarnii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishkulkarnii/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -172,6 +174,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishkulkarnii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashishkulkarnii/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ashishkulkarnii/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishkulkarnii/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
