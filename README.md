@@ -52,6 +52,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishkulkarnii/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/ashishkulkarnii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashishkulkarnii/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ashishkulkarnii/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -229,6 +230,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1200-minimum-absolute-difference](https://github.com/ashishkulkarnii/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashishkulkarnii/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishkulkarnii/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ashishkulkarnii/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ashishkulkarnii/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -251,6 +253,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1448-maximum-69-number](https://github.com/ashishkulkarnii/leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/ashishkulkarnii/leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ashishkulkarnii/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishkulkarnii/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ashishkulkarnii/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ashishkulkarnii/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ashishkulkarnii/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -272,6 +275,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0994-rotting-oranges](https://github.com/ashishkulkarnii/leetcode/tree/master/0994-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/ashishkulkarnii/leetcode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/ashishkulkarnii/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishkulkarnii/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ashishkulkarnii/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/ashishkulkarnii/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
