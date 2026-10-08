@@ -118,6 +118,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [0696-count-binary-substrings](https://github.com/ashishkulkarnii/leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/ashishkulkarnii/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ashishkulkarnii/leetcode/tree/master/0868-push-dominoes) |
+| [1021-remove-outermost-parentheses](https://github.com/ashishkulkarnii/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/ashishkulkarnii/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ashishkulkarnii/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ashishkulkarnii/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -445,6 +446,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/ashishkulkarnii/leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [1021-remove-outermost-parentheses](https://github.com/ashishkulkarnii/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -461,4 +463,8 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishkulkarnii/leetcode/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ashishkulkarnii/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
