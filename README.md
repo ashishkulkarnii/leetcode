@@ -126,6 +126,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1524-string-matching-in-an-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ashishkulkarnii/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ashishkulkarnii/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ashishkulkarnii/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -335,6 +336,7 @@ Visit my LeetCode profile [here](https://leetcode.com/ashishkulkarnii).
 | [1929-concatenation-of-array](https://github.com/ashishkulkarnii/leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/ashishkulkarnii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ashishkulkarnii/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ashishkulkarnii/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3336-water-bottles-ii](https://github.com/ashishkulkarnii/leetcode/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
